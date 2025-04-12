@@ -7,3 +7,5 @@ How it works:
 If you need to decrypt it, then you need the key that was used to encrypt it.
 
 No libraries needed)
+
+There is also a list of allowed characters at the very beginning, which you can change.
